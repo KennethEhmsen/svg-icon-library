@@ -1,1 +1,1 @@
-webseitler-media-library-svg
+webseitler-svg-icon-library
